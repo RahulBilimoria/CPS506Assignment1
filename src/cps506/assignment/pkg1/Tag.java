@@ -9,7 +9,7 @@ package cps506.assignment.pkg1;
  *
  * @author minim_000
  */
-public class Tag{
+public class Tag {
     
     private String s;
     private int i;
